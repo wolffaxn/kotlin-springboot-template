@@ -1,7 +1,7 @@
-# gh-template-base
+# kotlin-springboot-template
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/gh-template-base/main.svg)](https://github.com/wolffaxn/gh-template-base)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/kotlin-springboot-template/main.svg)](https://github.com/wolffaxn/kotlin-springboot-template)
 
 > Template repository for starting new projects.
 
